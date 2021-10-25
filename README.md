@@ -6,5 +6,7 @@ https://datashare.ed.ac.uk/handle/10283/2791
 环境安装：
 
 pytorch 1.8.1
+
 torchvision 0.9.1
+
 torchaudio 0.8.1
