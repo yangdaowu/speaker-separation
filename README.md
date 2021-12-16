@@ -1,7 +1,7 @@
-# speaker-separation
-数据集下载，可对应下载（即仅下载28说话人训练和测试集）：
+# 说话人分离
+数据集下载
 
-https://datashare.ed.ac.uk/handle/10283/2791
+https://drive.google.com/file/d/1g3ObZnCNtdYMLYe-YNwbjkMlUrFszjxY/view
 
 环境安装：
 
